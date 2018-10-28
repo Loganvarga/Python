@@ -1,0 +1,4 @@
+jamon = input ("Has comprado jamon?")
+
+if (jamon=="si"):
+    print ("Apruebas m03")
