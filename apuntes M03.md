@@ -1,4 +1,4 @@
-M03 Aplicacions ofirmàtiques-UF4 Fulls de càlculs-Lista de distribuccio Calc(moodle) en ordenador. Una hoJa de calculo basicamente es una herramienta para la gestión de un negocio, capaz de organizar y gestionar enormes cantidades de datos.
+M03 Aplicacions ofirmàtiques,Fulls de càlculs-Lista de distribuccio Calc(Gmail) en ordenador. Una hoJa de calculo basicamente es una herramienta para la gestión de un negocio, capaz de organizar y gestionar enormes cantidades de datos.
 
 El F11 maximiza la ventana del navegador
 
@@ -18,7 +18,7 @@ Comentario pones sugerencia a un usuario
 
 La visualizacion es la pestanyita de la derecha arriba del excell
 
-lista de correo electronico
+listas de correos electronicos
 
 foro preguntas y respuesta
 
@@ -26,9 +26,9 @@ foro web
 
 lista de entrada bandeja colaborativa
 
--Comentario en excel: es sugerir un comentario.
+-Comentario en excel: es un comentario que se save de quien es. 
 
--Autofiltro:Pestanya; ejemplo A-D 1-10
+-Autofiltro:Pestanya; ejemplo A3:E8
 
 autofiltro:Modificación.
 
