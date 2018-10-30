@@ -1,4 +1,4 @@
-  Edad= 0;
+  edad= 0;
   permiso=("Puedes pasar")
   edad=int(input("introduce su edad"))
 
